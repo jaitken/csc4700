@@ -1,2 +1,8 @@
 Joseph C Aitken
 jaitken
+What is your favorite movie?
+Django unchained
+If you could go anywhere in the world for vacation, where would it be?
+hawaii
+If you could have any super power, what would it be (and why that power)?
+teleportation, travel anywhere at any time and be back whenever needed
